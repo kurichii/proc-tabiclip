@@ -2,5 +2,3 @@
 import "@hotwired/turbo-rails"
 import "./controllers"
 import "preline";
-import "./test";
-import "./custom/data-picker";
